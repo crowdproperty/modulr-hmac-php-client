@@ -1,6 +1,6 @@
 {
   "name": "crowdproperty/modulr-hmac-php-client",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "GPL-3.0",
   "require": {
     "php": ">=5.4.0",
